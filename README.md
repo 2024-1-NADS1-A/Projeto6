@@ -8,7 +8,7 @@
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/daniela-giacomo-pauzer-a25a64304">Daniela Giacomo Pauzer</a>, <a href="LINKEDIN">Enzo Sangiacomo Duela de Andrade</a>, <a href="https://www.linkedin.com/in/gabriel-pires-2082b473">Gabriel Pires</a>, <a href="https://www.linkedin.com/in/thays-pontes-14663822b/">Thays Pontes</a>
+## Integrantes: <a href="https://www.linkedin.com/in/daniela-giacomo-pauzer-a25a64304">Daniela Giacomo Pauzer</a>, <a href="https://br.linkedin.com/in/enzo-sangiacomo-3203602b3">Enzo Sangiacomo Duela de Andrade</a>, <a href="https://www.linkedin.com/in/gabriel-pires-2082b473">Gabriel Pires</a>, <a href="https://www.linkedin.com/in/thays-pontes-14663822b/">Thays Pontes</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Valente</a>
 
