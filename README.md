@@ -20,11 +20,7 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+ORTA consiste em um dispositivo desenvolvido para acompanhamento da qualidade da água, partindo dos parâmetros de temperatura e turbidez. O projeto foi construído utilizando o ESP32 junto ao sensor de temperatura à prova d'água DS18B20 e ao sensor de TDS (sólidos dissolvidos totais) Meter V1.0 que reflete na pureza na água indicando quantos miligramas de sólidos solúveis se dissolveram em um litro de água.
 <br><br>
 
 ## 🛠 Estrutura de pastas
