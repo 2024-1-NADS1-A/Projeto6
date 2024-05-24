@@ -122,4 +122,5 @@ Aqui estão as referências usadas no projeto.
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://creativecommons.org/share-your-work/>
 4. <https://www.youtube.com/watch?v=Jb_QwD0a0F0&t=183s>
-5. <https://randomnerdtutorials.com/esp32-tds-water-quality-sensor/#Introducing_The_TDS_Meter>
+5. <https://portal.vidadesilicio.com.br/sensor-temperatura-ntc10k-com-esp32/>
+6. <https://randomnerdtutorials.com/esp32-tds-water-quality-sensor/#Introducing_The_TDS_Meter>
