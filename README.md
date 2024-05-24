@@ -16,6 +16,8 @@
 
 ORTA consiste em um dispositivo desenvolvido para acompanhamento da qualidade da água, partindo dos parâmetros de temperatura e turbidez. O projeto foi construído utilizando o ESP32 junto ao sensor de temperatura à prova d'água DS18B20 e ao sensor de TDS (sólidos dissolvidos totais) Meter V1.0 que reflete na pureza na água indicando quantos miligramas de sólidos solúveis se dissolveram em um litro de água.
 <br><br>
+Através da implementação de dispositivos ORTA no curso de um rio para acompanhamento dos dados será possível identificar a localização aproximada onde tenha ocorrido uma descarga indevida de agentes poluidores. Dessa forma, também se torna possível a previsão de alteração dos dados em outros pontos do rio em decorrência desta ação. 
+
 
 ## 📋 Licença/License
 
